@@ -1,1 +1,1 @@
-My project is to help everyone be safe without them themselfs doing it
+My project is to help everyone to be safe without them themselfs doing it because it is hard and very fustrating we may release a GUI version but not yet I am planning on making a GUI version we are working on it.
