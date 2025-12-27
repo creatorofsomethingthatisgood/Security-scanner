@@ -1,0 +1,4 @@
+nano scanner.py 
+Then paste the code in there
+then make sure python is installed by pasting command: sudo apt install python3
+then run: sudo python3 scanner.py or file you named with the code
