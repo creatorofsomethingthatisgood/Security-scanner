@@ -5,3 +5,4 @@ My project is to help everyone to be safe without them themselfs doing it becaus
 and GUI may not work it is like beta or experimental release.
         
         Edit: always use sudo for running because if not it will not run.
+        sudo apt install python3
